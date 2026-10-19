@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [UrlAgentFoo/Pharos](https://github.com/UrlAgentFoo/Pharos).**
+>
+> Submitted version: [`1d26a7c`](https://github.com/science-works/rtw-2026-pharos/tree/1d26a7c90846c7d4e5c39263255db299096f6e5f). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 # Pharos
 
 Pharos - Light House of Alexandria Library.
